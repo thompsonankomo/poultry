@@ -1,3 +1,5 @@
+
+
 @import "tailwindcss";
 
 @theme {
@@ -37,7 +39,6 @@ body {
   background: #F59E0B;
   color: #0A0F0C;
 }
-
 /* Ambient grain texture */
 .grain::before {
   content: "";
@@ -98,10 +99,10 @@ body {
   border: 1px solid rgba(10, 15, 12, 0.06);
 }
 .glass-dark {
-  background: rgba(10, 15, 12, 0.55);
+  background: rgba(251, 247, 239, 0.82);
   backdrop-filter: blur(18px) saturate(160%);
   -webkit-backdrop-filter: blur(18px) saturate(160%);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(10, 15, 12, 0.08);
 }
 
 /* Hover card lift */
@@ -177,3 +178,4 @@ body {
 /* Hide scrollbar for horizontal sections */
 .no-scrollbar::-webkit-scrollbar { display: none; }
 .no-scrollbar { scrollbar-width: none; }
+
