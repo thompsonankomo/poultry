@@ -372,16 +372,7 @@ Data survives browser refresh and persists across sessions.
   cause: string;
   notes: string;
   date: string;
-}
-```
 
-## 🤝 Credits
-
-- **Design & Development**: AI Assistant
-- **Icons**: Lucide React
-- **Charts**: Recharts
-- **Fonts**: Google Fonts
-- **Stock Photos**: Pexels
 
 ## 📞 Support
 
