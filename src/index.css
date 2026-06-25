@@ -33,11 +33,11 @@ body {
   background: #FBF7EF;
   color: #1e0432; 
   overflow-x: hidden;
-
+width:800 px;
 }
 
 .main {
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 24px;
 }
