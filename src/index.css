@@ -33,6 +33,13 @@ body {
   background: #FBF7EF;
   color: #1e0432; 
   overflow-x: hidden;
+
+}
+
+.main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
 }
 
 ::selection {
